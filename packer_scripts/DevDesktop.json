@@ -2,7 +2,7 @@
       "my.user_ocid":"ocid1.user.oc1..aaaaaaaamk4pgm3y3onnlm5mvjzchsnkhchzfxtexprfhf2u4fzrzdbofm6a",
       "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaapox4qeg75qpeqjruuqxe7ybflk5utmt5cwwtdukuphkmise4h3hq",
       "my.fingerprint":"a7:1a:19:6d:7d:03:86:2f:cd:dc:af:28:98:c6:0a:4c",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
+      "my.availability_domain": "CISk:US-ASHBURN-AD-1",
       "my.region": "us-ashburn-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaqyjvj32lwa4yairlf2s352ltbdmg3tuvvt4vqrem7m2xdz7ucxeq",
       "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaaxbgqekf65ctvvxao4pcs6kqnbexsypivmeovk7folhpepzlggc2q",
